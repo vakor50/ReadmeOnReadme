@@ -59,9 +59,9 @@ If you need to see code
 a + b = c
 ```
 ```
-\`\`\`
+\```
  Math is fun?
-\`\`\`
+\```
 ```
 
 #### Links
