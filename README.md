@@ -20,23 +20,23 @@ The sizes of headers vary:
 
 #### Bold
 
-** Bold Text **
+**Bold Text**
 ```
-** Whatever is important **
+**Whatever is important**
 ```
 
 #### Italic
 
-__ Fancy Text __
+__Fancy Text__
 ```
-__ Whatever is interesting __
+__Whatever is interesting__
 ```
 
 #### Strikethrough
 
-~~ Useless Text ~~
+~~Useless Text~~
 ```
-~~ Whatever is irrelevant ~~
+~~Whatever is irrelevant~~
 ```
 
 #### Quoting
@@ -55,9 +55,9 @@ If you need to see code
 a + b = c
 ```
 ```
-```
+\`\`\`
  Math is fun?
-```
+\`\`\`
 ```
 
 #### Links
@@ -114,9 +114,9 @@ If you need to refer to [GitHub Pages](https://pages.github.com/)
 #### Checklist
 
 - [x] Finish this document
-- [] Win a nobe prize
+- [ ] Win a nobe prize
 
 ```
 - [x] completed
-- [] incomplete
+- [ ] incomplete
 ```
