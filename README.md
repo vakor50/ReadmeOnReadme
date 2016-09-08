@@ -23,13 +23,17 @@ The sizes of headers vary:
 **Bold Text**
 ```
 **Whatever is important**
+or
+__Other important things__
 ```
 
 #### Italic
 
-__Fancy Text__
+_Fancy Text_
 ```
-__Whatever is interesting__
+_Whatever is interesting_
+or
+*If it's intriguing*
 ```
 
 #### Strikethrough
