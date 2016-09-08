@@ -18,7 +18,7 @@ The sizes of headers vary:
 
 ## Styling Text
 
-#### Bold
+### Bold
 
 **Bold Text**
 ```
@@ -27,7 +27,7 @@ or
 __Other important things__
 ```
 
-#### Italic
+### Italic
 
 _Fancy Text_
 ```
@@ -36,14 +36,14 @@ or
 *If it's intriguing*
 ```
 
-#### Strikethrough
+### Strikethrough
 
 ~~Useless Text~~
 ```
 ~~Whatever is irrelevant~~
 ```
 
-#### Quoting
+### Quoting
 
 If someone said something important
 > Four score and...
@@ -52,7 +52,7 @@ If someone said something important
 > Live long and prosper
 ```
 
-#### Code Snipet
+### Code Snipet
 
 If you need to see code
 ```
@@ -64,16 +64,16 @@ a + b = c
 \```
 ```
 
-#### Links
+### Links
 
 If you need to refer to [GitHub Pages](https://pages.github.com/)
 ```
 [GitHub Pages](https://pages.github.com/)
 ```
 
-#### Lists
+### Lists
 
-##### Unordered
+#### Unordered
 - milk
 - eggs
 - butter
@@ -83,7 +83,7 @@ If you need to refer to [GitHub Pages](https://pages.github.com/)
 - item three
 ```
 
-##### Ordered
+#### Ordered
 1. fish
 2. fish
 3. red
@@ -93,7 +93,7 @@ If you need to refer to [GitHub Pages](https://pages.github.com/)
 3. item three
 ```
 
-##### Nested
+#### Nested
 1. Make my changes
   1. Fix bug
   2. Improve formatting
@@ -115,7 +115,7 @@ If you need to refer to [GitHub Pages](https://pages.github.com/)
     * Ask for feedback
 ```
 
-#### Checklist
+### Checklist
 
 - [x] Finish this document
 - [ ] Win a nobe prize
